@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cstdio>
-int main()
+int homework()
 //if i is divisible by 3 and 5 write fizzbuzz}
 {
 	int num;
