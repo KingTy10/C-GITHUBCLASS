@@ -127,9 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="FIb.cpp" />
     <ClCompile Include="HelloWorld.cpp" />
     <ClCompile Include="Homework.cpp" />
     <ClCompile Include="Prime.cpp" />
+    <ClCompile Include="Sets.cpp" />
     <ClCompile Include="Vector.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

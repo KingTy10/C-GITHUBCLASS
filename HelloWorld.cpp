@@ -6,6 +6,27 @@
 int main()
 {
     std::cout << "Hello World!\n";
+	int N;
+
+
+	int b;
+
+	int c;
+	//1+1 = 2 +1  = 3
+	for (N = 1; N < 10; N++)
+	{
+
+		for (b = N; b < N; b++)
+		{
+
+			printf(" % d", N += b);
+
+
+		}
+
+
+
+	}
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu

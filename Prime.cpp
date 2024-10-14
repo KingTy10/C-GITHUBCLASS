@@ -33,9 +33,10 @@ int prime()
 
             // else it is prime
             else
-             printf("%d is prime\n", n);
+                printf("%d is prime\n", n);
         }
     }
+    return 0;    
 }
 
 
